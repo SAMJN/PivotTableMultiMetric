@@ -22,8 +22,7 @@ After installing the original file, replace pivot.js [of Nicolas Kruchten](https
 
 # How can I contribute?
 
-Pull requests are welcome! [Contribution Guidelines]
-(https://github.com/SAMJN/PivotTableMultiMetric/blob/master/CONTIBUTING.md)
+Pull requests are welcome! [Contribution Guidelines](https://github.com/SAMJN/PivotTableMultiMetric/blob/master/CONTIBUTING.md)
 
 ## I have a question, how can I get in touch?
 
