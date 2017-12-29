@@ -16,7 +16,7 @@
   };
 
   callWithJQuery(function ($, d3) {
-    var PivotData, addSeparators, addSeparatorsCharacterFormat, aggregatorTemplates, aggregators, dayNamesEn, derivers, getSort, locales, mthNamesEn, multiMetricsTableRenderer, naturalSort, numberFormat, pivotTableRenderer, renderers, sortAs, usFmt, usFmtInt, usFmtPct, usNegFmt, accountingFmt, zeroPad;
+    var PivotData, addSeparators, addSeparatorsCharacterFormat, aggregatorTemplates, aggregators, dayNamesEn, derivers, getSort, locales, mthNamesEn, multiMetricsTableRenderer, naturalSort, numberFormat, pivotTableRenderer, renderers, sortAs, usFmt, usFmtInt, usFmtPct, usNegFmt, accountingFmt, zeroPad, m;
     addSeparators = function (nStr, thousandsSep, decimalSep) {
       var rgx, x, x1, x2;
       nStr += '';
